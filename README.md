@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WilfredoN
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning HTML\CSS\JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java!
 - 📫 How to reach me - thekillermaps@gmail.com
 
 <!---
