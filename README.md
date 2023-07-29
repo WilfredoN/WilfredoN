@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @WilfredoN
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java!
-- 📫 How to reach me - thekillermaps@gmail.com
+<div align = "center">
+<p>- 👋 Hi, I’m @WilfredoN </p>
+<p>- 👀 I’m interested in Software Development</p>
+<p>- 🌱 I’m currently learning Java!</p>
+<p>- 📫 How to reach me - thekillermaps@gmail.com</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -14,3 +15,4 @@
 ### Top Languages :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilfredoN&layout=compact)
+</div>
