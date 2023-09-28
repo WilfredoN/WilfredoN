@@ -11,6 +11,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=60 height=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=60 height=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=60 height=60>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=60 height=60>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width=60 height=60>
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=60 height=60>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=60 height=60>
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width=60 height=60>
 </div>
 <h1> Top Languages : </h1>
 
