@@ -2,7 +2,7 @@
 <p>👋 Hi, my name is Nikita </p>
 <p>👀 I’m interested in Software Development</p>
 <p>🌱 I’m currently learning Java!</p>
-<p>📫 How to reach me - thekillermaps@gmail.com</p>
+<p>📫 How to reach me - nikita.afanasyevnn@gmail.com</p>
 
 <h1> Languages and Tools : </h1>
 <div>
