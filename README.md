@@ -1,7 +1,7 @@
 <div align="left">
 <p>👋 Hi, my name is Nikita </p>
 <p>👀 I’m interested in Software Development</p>
-<p>🌱 I’m currently learning Java!</p>
+<p>🌱 I’m currently learning Java & React!</p>
 <p>📫 How to reach me - nikita.afanasyevnn@gmail.com</p>
 
 <h1> Languages and Tools : </h1>
@@ -13,6 +13,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=60 height=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=60 height=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width=60 height=60>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=60 height=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=60 height=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=60 height=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width=60 height=60>
