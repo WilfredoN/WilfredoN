@@ -3,7 +3,7 @@
 <p>👀 I’m interested in Software Development</p>
 <p>🌱 I’m currently learning Java & React!</p>
 <p>📫 How to reach me - nikita.afanasyevnn@gmail.com</p>
-
+<p>💫 My portfolio site - https://wilfredon.github.io/portfolio/</p>
 <h1> Languages and Tools : </h1>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=60 height=60>
