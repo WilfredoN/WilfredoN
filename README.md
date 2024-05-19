@@ -4,6 +4,7 @@
 <p>🌱 I’m currently learning Java & React!</p>
 <p>📫 How to reach me - nikita.afanasyevnn@gmail.com</p>
 <p>💫 My portfolio site - https://wilfredon.github.io/portfolio/</p>
+<a href="https://wakatime.com/@01e309ec-3594-4bf7-98aa-6be37e8504c3"><img src="https://wakatime.com/badge/user/01e309ec-3594-4bf7-98aa-6be37e8504c3.svg" alt="Total time coded since Feb 27 2023" /></a>
 <h1> Languages and Tools : </h1>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=60 height=60>
