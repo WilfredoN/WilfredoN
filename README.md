@@ -7,7 +7,7 @@ Full Stack Engineer
 Hi, I'm a Software Developer. I love to build web applications from start to finish. I have experience in Java, Spring on the backend, React and Angular on the frontend. Let's connect and create something amazing together!
 
 * 🌍  I'm based in Kharkiv, Ukraine
-* 🖥️  See my portfolio at [Github Pages](http://wilfredon.github.io/portfolio/)
+* 🖥️  See my portfolio at [my website](https://capybara.cx.ua)
 * ✉️  You can contact me at [nikita.afanasyevnn@gmail.com](mailto:nikita.afanasyevnn@gmail.com)
 * 🚀  I'm currently working on [WinWin.Travel](http://www.winwin.travel/demo-request)
 * 🧠  I'm learning currently React, Zustand and Chakra UI library.
