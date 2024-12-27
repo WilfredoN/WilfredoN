@@ -10,8 +10,8 @@ Hi, I'm a Software Developer. I love to build web applications from start to fin
 * 🖥️  See my portfolio at [my website](https://capybara.cx.ua)
 * ✉️  You can contact me at [nikita.afanasyevnn@gmail.com](mailto:nikita.afanasyevnn@gmail.com)
 * 🚀  I'm currently working on my projects (looking forward to push them!)
-* 🧠  I'm learning currently React, Zustand and Chakra UI library.
-* 🤝  I'm open to collaborating on interesting ideas and projects
+* 🧠  I'm currently learning React, Zustand on Front-End for my soul, and Python, C for the work.
+* 🤝  I'm open to collaborating on interesting ideas and projects!
 <br />
 <a href="https://wakatime.com/@01e309ec-3594-4bf7-98aa-6be37e8504c3"><img src="https://wakatime.com/badge/user/01e309ec-3594-4bf7-98aa-6be37e8504c3.svg" alt="Total time coded since Feb 27 2023" /></a>
 
