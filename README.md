@@ -6,7 +6,7 @@ Hi, I'm a Software Developer. I love to build web applications from start to fin
 * 🌍  I'm based in Kharkiv, Ukraine
 * 🖥️  See my portfolio at [my website](https://capybara.cx.ua?utm_source=github&utm_medium=banner&utm_campaign=portfolio)
 * ✉️  You can contact me at [nikita.afanasyevnn@gmail.com](mailto:nikita.afanasyevnn@gmail.com)
-* 🚀  I'm currently working on my projects (looking forward to push them!)
+* 🚀  I'm currently working on Game Store pet-project as Front-End Developer, applying best practices of code writing and structure.
 * 🧠  I'm currently using React for my work, and C/C++ for my soul.
 * 🤝  I'm open to collaborating on interesting ideas and projects!
 <br />
